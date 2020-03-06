@@ -1,5 +1,2 @@
 hello world!
 
-hello data_science!
-
-hell or paradis?
